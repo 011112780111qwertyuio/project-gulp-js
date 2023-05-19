@@ -1,0 +1,9 @@
+.active-explore{background-color:#d1cbcb !important}.active-home{background-color:white}
+.mynav-option{width:100%}.card-option{width:100%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-flow:row wrap;flex-flow:row wrap;padding:15px;direction:rtl;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
+.card-open{background-color:black;padding:15px;margin-left:5px;margin-right:5px;margin-bottom:5px;border-radius:5px;width:200px;height:120px}
+.card-open span{font-size:25px;text-align:center;display:block;color:bisque}.card-open label{display:block;text-align:center;font-size:18px;margin-top:10px;color:white}
+@media(max-width:700px){.card-open{width:100%}}.card-open:hover{-webkit-transition:all .3s ease-in-out;transition:all .3s ease-in-out;background-color:rgba(0,0,0,0.356)}
+.mycard-explor{direction:rtl;width:100%}.mycard-explor h5{margin-right:20px}.flex-cards-explor{width:100%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-flow:column wrap;flex-flow:column wrap;padding-right:15px;padding-left:15px;padding-top:20px;padding-bottom:20px;direction:rtl}
+.card-explor{display:-webkit-box;display:-ms-flexbox;display:flex;direction:rtl;margin-bottom:15px}
+.explor-img-menue-card{width:220px;height:200px;min-width:220px;min-height:220px;border-radius:5px;overflow:hidden;max-width:100%}
+.explor-img-menue-card img{width:100%;height:100%}.content-explor{padding-right:10px;padding-top:15px}
